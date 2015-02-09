@@ -13,8 +13,9 @@ Raw data: http://www.infoplease.com/ipa/A0762183.html
 
 Structure
 -------------
-+ dwell.py
-+ cities.py
++ dwell.py  (runs flask)
++ cities.py (with City class)
++ calc.py   (calculates each city's score)
 + templates
     + home.html
     + search.html
